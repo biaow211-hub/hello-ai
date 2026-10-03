@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# 环境变量与密钥
+.env
+.pytest_cache/
+.ruff_cache/
